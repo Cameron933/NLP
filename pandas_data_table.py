@@ -1,11 +1,7 @@
 """
 Author: Chu Huang
-Student ID: 29250358
 Version: utf-8
-Date Created: 30 Sep 2020
-Last Edit: 19 Oct 2020
 
-This program is for the Assignment2 task3.
 To read both of the txt file which was generated before and Use their data to make tables
 then stored the table as a csv file.
 """
