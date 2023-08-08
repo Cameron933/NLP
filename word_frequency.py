@@ -1,11 +1,7 @@
 """
 Author: Chu Huang
-Student ID: 29250358
 Version: utf-8
-Date Created: 30 Sep 2020
-Last Edit: 17 Oct 2020
 
-This program is for the Assignment2 task2.
 To generate a frequency of word txt file and two frequency Graphs based on the previously generated txt,
 then stored all of them for further work.
 There are 3 outputs:
