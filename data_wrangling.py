@@ -1,11 +1,7 @@
 """
 Author: Chu Huang
-Student ID: 29250358
 Version: utf-8
-Date Created: 30 Sep 2020
-Last Edit: 15 Oct 2020
 
-This program is for the Assignment2 task1.
 To read all the given txt files and delete all the special sentences in them,
 then stored all of them in a txt file called cleaned.txt for further modeling.
 """
